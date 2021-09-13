@@ -1,0 +1,7 @@
+#!/usr/bin/env cat
+
+Hi.
+
+This folder/directory represents a small library for dealing .with::
+* The [asyncio]'s family of libraries
+

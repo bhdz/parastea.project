@@ -1,0 +1,26 @@
+#!/usr/bin/env cat
+
+Hi.
+
+This folder/directory represents .a: [container] {for? Docker}
+ for running the [parastea] {project} .
+
+~
+For more information about [parastea] check out [parastea/docs].
+
+In short, [parastea] .is::
+* a [:project] {! Obviously \:-) !!}
+* A Web :Crawler {based on? [research] done during 2020 by me}
+* The &&future (a prototype) of a home-grown [ASyncIO] [:Search Engine]
+* [& Name]::
+ * [parastea]: inspired by your common household spider [latin name]
+
+Enjoy!?
+
+~
+latin name = Parastea [? ??]
+research = + A hectic year, indeed; I spend a summer out of employment on this
+
+~
+[$] / Export!? With? [parastea] -> Name -> docs
+
