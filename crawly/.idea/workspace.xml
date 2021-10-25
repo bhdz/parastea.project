@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0e07623-0de6-47ca-bbfc-09cc15b60911" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YTIoTFEMgkquFTjlYyGUXmoBrF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../braces" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="crawly" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="crawly" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/inputs/pornpics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/outputs" />
+      <recent name="$PROJECT_DIR$/inputs" />
+      <recent name="$PROJECT_DIR$/crawled.logs/2020-03-06.01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.crawler2">
+    <configuration name="base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawly" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawly" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawly/base.py" />
+      <option name="PARAMETERS" value="../inputs/sexy/hardcore.urls ../outputs/hardcore/01" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="base2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawly" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawly" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawly/base2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawly" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawly" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawly/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crawler2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawly" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawly" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawly/crawler2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crawly" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawly" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawly/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.base" />
+      <item itemvalue="Python.tests" />
+      <item itemvalue="Python.config" />
+      <item itemvalue="Python.base2" />
+      <item itemvalue="Python.crawler2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.crawler2" />
+        <item itemvalue="Python.base" />
+        <item itemvalue="Python.base2" />
+        <item itemvalue="Python.config" />
+        <item itemvalue="Python.tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0e07623-0de6-47ca-bbfc-09cc15b60911" name="Default Changelist" comment="" />
+      <created>1582960331645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582960331645</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="273" y="22" width="800" height="672" key="#Updates" timestamp="1583007646509">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="273" y="22" width="800" height="672" key="#Updates/0.0.1366.728@0.0.1366.728" timestamp="1583007646509" />
+    <state x="395" y="0" width="572" height="723" key="#base" timestamp="1584142821629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="0" width="572" height="723" key="#base/0.0.1366.728@0.0.1366.728" timestamp="1584142821629" />
+    <state x="538" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584748746029">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="79" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584143425273" />
+    <state x="538" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584748746029" />
+    <state x="619" y="271" width="542" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584693984510">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="407" y="169" width="542" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583522711470" />
+    <state x="619" y="271" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1584693984510" />
+    <state x="449" y="197" width="458" height="474" key="#com.intellij.tools.ToolEditorDialog" timestamp="1582960732396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="449" y="197" width="458" height="474" key="#com.intellij.tools.ToolEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1582960732396" />
+    <state x="694" y="183" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584754254816">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="462" y="108" width="432" height="506" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582960367133" />
+    <state x="694" y="183" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1584754254816" />
+    <state x="67" y="27" width="1356" height="723" key="FileDocumentManager.FileCacheConflict" timestamp="1584645207577">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="0" y="0" width="1356" height="723" key="FileDocumentManager.FileCacheConflict/0.0.1366.728@0.0.1366.728" timestamp="1584058659541" />
+    <state x="67" y="27" key="FileDocumentManager.FileCacheConflict/67.27.1853.1053@67.27.1853.1053" timestamp="1584645207577" />
+    <state width="1830" height="276" key="GridCell.Tab.0.bottom" timestamp="1584776452542">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1302" height="117" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584166243322" />
+    <state width="1830" height="276" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584776452542" />
+    <state width="1830" height="276" key="GridCell.Tab.0.bottom/67.31.1853.1049@67.31.1853.1049" timestamp="1584763419098" />
+    <state width="1830" height="276" key="GridCell.Tab.0.center" timestamp="1584776452539">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1302" height="117" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584166243321" />
+    <state width="1830" height="276" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584776452539" />
+    <state width="1830" height="276" key="GridCell.Tab.0.center/67.31.1853.1049@67.31.1853.1049" timestamp="1584763419098" />
+    <state width="1830" height="276" key="GridCell.Tab.0.left" timestamp="1584776452538">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1302" height="117" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584166243320" />
+    <state width="1830" height="276" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584776452538" />
+    <state width="1830" height="276" key="GridCell.Tab.0.left/67.31.1853.1049@67.31.1853.1049" timestamp="1584763419098" />
+    <state width="1830" height="276" key="GridCell.Tab.0.right" timestamp="1584776452540">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1302" height="117" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584166243321" />
+    <state width="1830" height="276" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584776452540" />
+    <state width="1830" height="276" key="GridCell.Tab.0.right/67.31.1853.1049@67.31.1853.1049" timestamp="1584763419098" />
+    <state x="321" y="27" key="SettingsEditor" timestamp="1584696102088">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584100929638" />
+    <state x="321" y="27" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1584696102088" />
+    <state x="584" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1584731945914">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="381" y="214" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584131177544" />
+    <state x="584" y="337" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584731945914" />
+    <state x="67" y="27" width="878" height="1053" key="find.popup" timestamp="1584712283616">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="0" y="0" width="647" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1584147071165" />
+    <state x="67" y="27" width="878" height="1053" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1584712283616" />
+    <state x="349" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584120171939">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="349" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584120171939" />
+    <state x="718" y="455" width="540" height="194" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584644914575">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="718" y="455" width="540" height="194" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584644914575" />
+  </component>
+</project>

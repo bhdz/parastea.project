@@ -1,0 +1,21 @@
+Now. 
+Let's add [Workers]! What do I call a [Worker]? An ASyncIO parallel loop that works on one or more [asyncio.Queue]s and is synchronized by [asyncio.Event]s from the main loop.
+
+Another type of structure would be the [Message] which will simply facilitate a [Scheme] of these workers and queues into a whole [Program]. The [Message] will hold information that would guide it towards the right path through the [Scheme].
+
+A [Scheme] would be any arrangement of [asyncio.Queue]s and [Workers] connecting them.
+
+A [Program] would be at least one [Scheme] and a [Watchdog {LoopIO}] that is responsible for its operation.
+
+How many types of workers?
+1. Producer -> An AsyncIO Loop [LoopIO] that has its [LoopIO.body {RoutineIO}] set on producing values to feed a queue.
+
+2. Consumer -> Like [Producer], but set as the endpoint of a queue processing.
+
+3. Vector -> A loop that gets items from an [input_queue], processes those items through a [RoutineIO] and then feeds them into an [output_queue].
+
+4. Splitter -> A loop that takes gets items from an [input_queue] and then feeds them through a processing function which decides which [*output_queue] the item should next go into.
+
+5. Joiner -> The opposite of a [Splitter] where a number of [*input_queues] are fed through and the body Routine processes them and then feeds them into a single [output_queue].
+
+#parastea [#development [#blog]] .
